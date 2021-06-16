@@ -1,2 +1,2 @@
 # Emaily
-MERN email survey app sample
+MERN practice email survey app
